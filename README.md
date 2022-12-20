@@ -11,5 +11,5 @@ Selam, ben @emre-cavus , ben kodlamayla, frontend ve backend geliştirmeyle, pho
 Çok çılgınlarca okuyan birisiyimdir ve tahmin edersiniz ki çok okuyan çok bilir açıkçası söylemem gerekirse çocukluğumdan beri bilgisayarla aram hep iyi olmuştur,yani anlayacağınız çocukluğumdan beri bilgisayarla iç içe büyüdüm teknoloji ve bilim birbirine karıştırıldığında bence ortaya muhteşem şeyler çıkıyor, açıkçası gerçekten işimi seviyorumi kodlamayı bir şeyler yaratmayı içindeki problemleri çözmeyi ve nihayetinde son haline getirmeyi fakat bunun dışında bir çok yeni teknoloji üzerinde çalışma fikri bana daha cazip geliyor, teknolojiler insanların hayatlarını yıllardır kolaylaştırıyor ve böylede devam edecek, bende bu alanda gerçekten bu tarz işler ve girişimlerde bulunmak bizzat kendi yazdığım kodları bu işlerde görmek isterim, bu beni çok onurlandırır, eğer gerçekten böyle bir eleman arıyorsanız bana aşağıdaki e-mail adresimden ulaşabilirsiniz, teşekkürler.
 
 📩 E-Mail : cavus.emre5563@gmail.com
-💽 Twitter: https://twitter.com/emree_cavuss
+<!--💽 Twitter: https://twitter.com/emree_cavuss-->
 👤 Emre Cavus J.
