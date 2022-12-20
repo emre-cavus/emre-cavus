@@ -1,4 +1,4 @@
-Language is english (note: translate translated slightly wrong) ↓
+Language is english (note: translate translated slightly wrong) ↓ <br>
 Hi, I'm @emre-cavus, I'm interested in coding, frontend and backend development, using programs like photoshop or making ardunio projects or preparing the codes of strange projects that come to my mind and every field in the world where I can contribute on behalf of technology. 
 Although we live in the information age right now, I see a lot of ignorant people and I know that this can be fixed with technology. At the moment I know various languages such as C#, Javascript, Html, Css, Python in some or good ways, I am curious about Kotlin and Typescript, I try to learn them, then I want to contribute to the technology community with what I have learned, if anyone wants to reach me, I will leave my e-mail at the bottom, thank you.
 
