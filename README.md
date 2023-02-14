@@ -1,4 +1,5 @@
-Software Engineer
+# Software Engineer
+<font> '< code />' </font>
 --------------------------------------------------------------------------------------------------------------------------------------------
 ![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=emre-cavus&show_icons=true&theme=gotham&locale=tr)
 [![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=emre-cavus&layout=compact&theme=gotham)](https://github.com/emre-cavus/github-readme-stats)
@@ -12,6 +13,11 @@ Software Engineer
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-Php" height="45" width="40" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">
+  <img align="center" alt="Rafa-C" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
+  <img align="center" alt="Rafa-Php" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+   <img align="center" alt="Rafa-Php" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
+  <img align="center" alt="Rafa-Php" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
   <!--
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/112582013/218698508-636eca0c-e6d8-4583-b22d-11e551ade77b.png">-->
 </div>
