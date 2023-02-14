@@ -1,8 +1,8 @@
 # Software Engineer
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aticiadem&show_icons=true&theme=gotham" width="450" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aticiadem&layout=compact&theme=gotham" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=emre-cavus&show_icons=true&theme=gotham&include_all_commits=ture&hide_border=true" width="450" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emre-cavus&layout=compact&theme=gotham&hide_border=true" height="180">
   
 </p>
 
