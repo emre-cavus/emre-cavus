@@ -1,4 +1,4 @@
-# Software Engineer
+# Software Engineer ```</>```
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emre-cavus&show_icons=true&theme=gotham&include_all_commits=ture&hide_border=true" width="450" height="180">
@@ -37,5 +37,6 @@
   <a href="https://open.spotify.com/user/zpccm2txqz2vzt7djielsbtrc" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/JesPster/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://github.com/emre-cavus" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+   
   
 </p>
