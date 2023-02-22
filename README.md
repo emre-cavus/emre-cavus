@@ -26,10 +26,9 @@
   </p>
 
   ##
-  
 
-<img align="center" alt="Rafa-Lua" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
-  </p><h3 align="center">My social connections:</h3>
+
+<h3 align="center">My social connections:</h3>
   <p align="center">
   <a href="https://www.youtube.com/channel/UCStE5LCCw7ayjfYixbTaopA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/emredersiniz.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
