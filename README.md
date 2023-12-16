@@ -1,4 +1,5 @@
-# Software Engineer ```</>```
+# Software Engineer ```</>```<img align="center" alt="Rafa-Laravel" height="40" width="40" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif">
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emre-cavus&show_icons=true&theme=gotham&include_all_commits=ture&hide_border=true" width="450" height="180">
@@ -23,6 +24,8 @@
    <img align="center" alt="Rafa-Java" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
   <img align="center" alt="Rafa-Lua" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
   <img align="center" alt="Rafa-Laravel" height="40" width="40" src="https://user-images.githubusercontent.com/112582013/220498308-3d33291b-8285-47b1-92a1-e4e9450a3167.png">
+      <img align="center" alt="Rafa-Nodejs" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+
   </p>
 
   ##
