@@ -24,8 +24,14 @@
   <img align="center" alt="Rafa-Java" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
   <img align="center" alt="Rafa-Lua" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
   <img align="center" alt="Rafa-Laravel" height="40" width="40" src="https://user-images.githubusercontent.com/112582013/220498308-3d33291b-8285-47b1-92a1-e4e9450a3167.png">
-  <img align="center" alt="Rafa-Nodejs" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+  <img align="center" alt="Rafa-Ruby" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png?size=48">
+  <img align="center" alt="Rafa-Nodejs" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   <img align="center" alt="Rafa-Vite" height="40" width="40" src="https://avatars.githubusercontent.com/u/65625612?s=40&v=4">
+<!--
+  <img align="center" alt="Rafa-Photoshop" height="40" width="40" src="https://avatars.githubusercontent.com/u/4542585?s=40&v=4">
+  <img align="center" alt="Rafa-Photoshop" height="40" width="40" src="https://avatars.githubusercontent.com/u/1351977?s=40&v=4">
+  <img align="center" alt="Rafa-Photoshop" height="40" width="40" src="https://avatars.githubusercontent.com/u/5877084?s=40&v=4">
+    -->
   </p>
 
   ##
