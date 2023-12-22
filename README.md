@@ -27,6 +27,8 @@
   <img align="center" alt="Rafa-Ruby" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png?size=48">
   <img align="center" alt="Rafa-Nodejs" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   <img align="center" alt="Rafa-Vite" height="40" width="40" src="https://avatars.githubusercontent.com/u/65625612?s=40&v=4">
+  <img align="center" alt="Rafa-Tailwind" height="50" width="50" src="https://avatars.githubusercontent.com/u/67109815?s=40&v=4">
+
 <!--
   <img align="center" alt="Rafa-Photoshop" height="40" width="40" src="https://avatars.githubusercontent.com/u/4542585?s=40&v=4">
   <img align="center" alt="Rafa-Photoshop" height="40" width="40" src="https://avatars.githubusercontent.com/u/1351977?s=40&v=4">
