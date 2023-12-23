@@ -31,7 +31,6 @@
   <img align="center" alt="Rafa-Dart" height="30" width="30" src="https://avatars.githubusercontent.com/u/1609975?s=40&v=4">
   <img align="center" alt="Rafa-Tailwind" height="50" width="50" src="https://avatars.githubusercontent.com/u/67109815?s=40&v=4">
 
-https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png?size=48
 <!--
   <img align="center" alt="Rafa-Photoshop" height="40" width="40" src="https://avatars.githubusercontent.com/u/4542585?s=40&v=4">
   <img align="center" alt="Rafa-Photoshop" height="40" width="40" src="https://avatars.githubusercontent.com/u/1351977?s=40&v=4">
