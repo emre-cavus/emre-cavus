@@ -1,4 +1,4 @@
-# Hi !<img align="center" height="32" width="32" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Emre CAVUS 
+# Hi !<img align="center" height="32" width="32" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Emre CAVUS  
 <p>Full Stack Developer - Compter Scientist - Digital Designer <img align="center" alt="Rafa-Laravel" height="28" width="28" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif"></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emre-cavus&show_icons=true&theme=gotham&include_all_commits=ture&hide_border=true" width="450" height="180">
